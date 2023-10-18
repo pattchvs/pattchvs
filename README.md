@@ -45,6 +45,6 @@
 You can find me at:
 
 - [LinkedIn](https://www.linkedin.com/in/pattchvs/)
-- [E-mail](ericpatrick.profissional@hotmail.com)
+- ericpatrick.profissional@hotmail.com
 
 Thank you for visiting my profile! 😊
