@@ -9,12 +9,12 @@
         private String studying;
         private String[] languageSpoken;
         
-         public SoftwareEngineer() {
+         public ComputerEngineer() {
             name = "Eric Patrick Chaves";
             studying = "Computer Engineering";
             languageSpoken = new String[]{"pt_BR", "en_US"};
         }
-    
+    s
         public void sayHi() {
             System.out.println("Hi, welcome to my profile, hope you find some of my work interesting.");
         }
