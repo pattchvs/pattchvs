@@ -20,7 +20,7 @@
         }
     
         public static void main(String[] args) {
-            SoftwareEngineer me = new SoftwareEngineer();
+            ComputerEngineer me = new ComputerEngineer();
             me.sayHi();
         }
     }
