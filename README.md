@@ -10,9 +10,9 @@
         private String[] languageSpoken;
         
          public ComputerEngineer() {
-            name = "Eric Patrick Chaves";
-            studying = "Computer Engineering";
-            languageSpoken = new String[]{"pt_BR", "en_US"};
+            this.name = "Eric Patrick Chaves";
+            this.studying = "Computer Engineering";
+            this.languageSpoken = new String[]{"pt_BR", "en_US"};
         }
     s
         public void sayHi() {
