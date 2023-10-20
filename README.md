@@ -14,7 +14,7 @@
             this.studying = "Computer Engineering";
             this.languageSpoken = new String[]{"pt_BR", "en_US"};
         }
-    s
+
         public void sayHi() {
             System.out.println("Hi, welcome to my profile, hope you find some of my work interesting.");
         }
